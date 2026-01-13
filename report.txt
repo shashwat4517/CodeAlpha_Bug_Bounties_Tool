@@ -1,0 +1,9 @@
+Target: http://testphp.vulnweb.com
+
+Reflected XSS: FOUND
+SQL Injection: FOUND
+Missing Security Headers:
+ - Content-Security-Policy
+ - X-Frame-Options
+ - X-XSS-Protection
+ - Strict-Transport-Security
