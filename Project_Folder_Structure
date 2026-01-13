@@ -1,0 +1,14 @@
+BugBountyTool/
+│
+├── scanner/
+│   ├── recon.py
+│   ├── xss_scanner.py
+│   ├── sqli_scanner.py
+│   └── headers_check.py
+│
+├── reports/
+│   └── report.txt
+│
+├── main.py
+├── requirements.txt
+└── README.md
